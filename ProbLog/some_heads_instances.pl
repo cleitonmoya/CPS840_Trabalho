@@ -1,0 +1,9 @@
+evidence(someHeads,false).
+evidence(heads1,false).
+----------------
+evidence(someHeads,true).
+evidence(heads1,true).
+----------------
+evidence(someHeads,true).
+evidence(heads1,false).
+----------------

@@ -1,0 +1,1 @@
+-72.01054365429283 [0.03, 0.44, 0.0, 0.01030928, 0.09090909, 0.0, 0.56818182, 0.26785714, 1.0, 0.05263158, 0.75, 1.0, 0.83333333, 0.11864407] [t(_)::travel, t(_)::smoker, t(_)::tuberculosis, t(_)::tuberculosis, t(_)::cancer, t(_)::cancer, t(_)::bronchitis, t(_)::bronchitis, t(_)::xray_abnormal, t(_)::xray_abnormal, t(_)::dyspnea, t(_)::dyspnea, t(_)::dyspnea, t(_)::dyspnea] 3
